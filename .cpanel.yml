@@ -1,8 +1,8 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/bezuide3/soekenjin.co.za
+    - export DEPLOYPATH=/home/hkdcfgyd/soekenjin.co.za
     - /bin/cp -R assets $DEPLOYPATH
-    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R blog $DEPLOYPATH
     - /bin/cp *.* $DEPLOYPATH
     
