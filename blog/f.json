@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Reblex Media",
+    "home_page_url": "https://reblex.co.za",
+    "description": "Reblex Media",
+    "author": {
+        "name": "Reblex Media"
+    },
+    "items": [
+        {
+            "id": "agco-future-farm-lusaka-zambia",
+            "html_content": "<p>With the latest solutions in agriculture and the understanding of successful farming techniques, we can help you maximise your land, support your community and have a financially rewarding future in farming. </p>",
+            "url": "https://reblex.co.za/blog/f/agco-future-farm-lusaka-zambia",
+            "title": "AGCO Future Farm, Lusaka, Zambia ",
+            "date_modified": "2023-09-19T12:04:06Z"
+        }
+    ]
+}

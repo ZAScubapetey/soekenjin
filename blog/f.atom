@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://reblex.co.za</id>
+    <title>Reblex Media</title>
+    <updated>2023-09-19T12:04:06Z</updated>
+    <generator>Reblex Media</generator>
+    <author>
+        <name>Reblex Media</name>
+    </author>
+    <link rel="alternate" href="https://reblex.co.za"/>
+    <link rel="self" href="https://reblex.co.za/blog/f"/>
+    <subtitle>Reblex Media</subtitle>
+    <entry>
+        <title type="html"><![CDATA[AGCO Future Farm, Lusaka, Zambia ]]></title>
+        <id>agco-future-farm-lusaka-zambia</id>
+        <link href="https://reblex.co.za/blog/f/agco-future-farm-lusaka-zambia">
+        </link>
+        <updated>2023-09-19T12:04:06Z</updated>
+        <content type="html"><![CDATA[<p>With the latest solutions in agriculture and the understanding of successful farming techniques, we can help you maximise your land, support your community and have a financially rewarding future in farming. </p>]]></content>
+    </entry>
+</feed>
